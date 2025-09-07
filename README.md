@@ -1,4 +1,6 @@
-I built you a single-file Vanilla JS app that:
+I built you a single-file Vanilla JS app:
+
+![Snapshot](img.png)
 
 lets you enter any heights array (e.g., [0,4,0,0,0,6,0,6,4,0]),
 
